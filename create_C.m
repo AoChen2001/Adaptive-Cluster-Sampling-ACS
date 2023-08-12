@@ -4,7 +4,6 @@ function C = create_C(k,w)
 
 % at the begining, C is a 0 row vector
 C = zeros(1,k);
-% n denotes the number of elementary effects generated for each factor by matrix C 
 
 % nee is a 1*k dementional vector
 % nee(q) denotes the number of additional elementary effects generated for each factor by adding C_q to (C_0;C_1;...;C_q-1)
