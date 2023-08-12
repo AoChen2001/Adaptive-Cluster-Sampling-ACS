@@ -2,6 +2,7 @@ function [C_q,n] = create_C_q(k,q,EENum)
 % create_C_q generate block matrix C_q
 % k denotes the number of factors; EENum is the number of elementary effects needs to be generated for each factor by C_q
 
+% n denotes the number of elementary effects generated for each factor by matrix C_q 
 n = 0;
 C_q = [];
 % nee(q) denotes the number of additional elementary effects generated for each factor by adding C_q to (C_0;C_1;...;C_q-1)
