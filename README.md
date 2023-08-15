@@ -2,7 +2,7 @@
 
 This is the code for the adaptive cluster sampling (ACS) algorithm in the paper "Generating and Validating Cluster Sampling Matrices for Model-free Factor Screening". 
 
-You can get the paper through the URL [https://www.sciencedirect.com/science/article/abs/pii/S0377221723006112](https://www.sciencedirect.com/science/article/abs/pii/S0377221723006112) and please site this article as: 
+You can get the paper through the URL [https://www.sciencedirect.com/science/article/abs/pii/S0377221723006112](https://www.sciencedirect.com/science/article/abs/pii/S0377221723006112) and please cite this article as: 
 W. Shi, A. Chen and X. Xie, Generating and validating cluster sampling matrices for model-free factor screening, European Journal of Operational Research, [https://doi.org/10.1016/j.ejor.2023.08.007](https://doi.org/10.1016/j.ejor.2023.08.007).
 
 **If you have any questions, please contact us via e-mail at aochen2001@gmail.com.**
